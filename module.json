@@ -1,0 +1,85 @@
+{
+	"id": "genesys-core-compendium",
+	"title": "Genesys Core Compendium",
+	"description": "Core compendiums for Genesys",
+	"authors":	[
+	{
+	"name":  "Jacob Dunning"
+	}
+	],
+	"version": "1.0.0",
+	"compatibility": {
+	"minimum": "9",
+	"verified": "10",
+	"url": "https://github.com/jacobdunningttrpg/genesys-core-compendium",
+	"manifest": "https://github.com/jacobdunningttrpg/genesys-core-compendium/releases/download/1.0.0/module.json",
+	"download": "https://github.com/jacobdunningttrpg/genesys-core-compendium/releases/download/1.0.0/genesys-core-compendium.zip"
+	},
+
+		"packs":
+		[
+		{
+		"name": "vehiclecrits",
+		"label": "Vehicle Critical Hits",
+		"path": "packs/vehiclecrits",
+		"type": "Item",
+		"system": "starwarsffg"
+		},
+		{
+		"name": "criticalinjuries",
+		"label": "Critical Injuries",
+		"path": "packs/criticalinjuries",
+		"type": "Item",
+		"system": "starwarsffg"
+		},
+		{
+		"name": "corerolltables",
+		"label": "Genesys Core Roll Tables",
+		"path": "packs/corerolltables",
+		"type": "RollTable",
+		"system": "starwarsffg"
+		},
+		{
+		"name": "coreitemqualties",
+		"label": "Core Item Qualties",
+		"path": "packs/coreitemqualties",
+		"type": "Item",
+		"system": "starwarsffg"
+		},
+		{
+		"name": "coretalents-tier1",
+		"label": "Core Talents Tier 1",
+		"path": "packs/coretalents-tier1",
+		"type": "Item",
+		"system": "starwarsffg"
+		},
+		{
+		"name": "coretalents-tier2",
+		"label": "Core Talents Tier 2",
+		"path": "packs/coretalents-tier2",
+		"type": "Item",
+		"system": "starwarsffg"
+		},
+		{
+		"name": "coretalents-tier3",
+		"label": "Core Talents Tier 3",
+		"path": "packs/coretalents-tier3",
+		"type": "Item",
+		"system": "starwarsffg"
+		},
+		{
+		"name": "coretalents-tier4",
+		"label": "Core Talents Tier 4",
+		"path": "packs/coretalents-tier4",
+		"type": "Item",
+		"system": "starwarsffg"
+		},
+		{
+		"name": "coretalents-tier5",
+		"label": "Core Talents Tier 5",
+		"path": "packs/coretalents-tier5",
+		"type": "Item",
+		"system": "starwarsffg"
+		}
+		]
+		}
